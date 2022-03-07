@@ -27,4 +27,4 @@ $ go run main.go
 Opne http://localhost:8080/ in your browser
 Type the text into the input field and press "PARSE" button to show the list of most used words
 
-![alt text](https://https://github.com/ittechman101/gobackend/screenshot.jpg?raw=true)
+![This is an image](https://github.com/ittechman101/gobackend/blob/main/screenshot.PNG)
